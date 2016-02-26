@@ -4,8 +4,33 @@
 
 ![equation](http://www.sciweavers.org/download/Tex2Img_1456353589.jpg)
 
+![equation](http://www.sciweavers.org/download/Tex2Img_1456526547.png)
 
+fg
 
+![equation](http://www.sciweavers.org/download/Tex2Img_1456526628.png)
+
+fr
+
+![equation](http://www.sciweavers.org/download/Tex2Img_1456526682.png)
+
+ff
+
+![equation](http://www.sciweavers.org/download/Tex2Img_1456527164.png)
+
+fi
+
+![equation](http://www.sciweavers.org/download/Tex2Img_1456527148.png)
+
+![equation]()
+
+![equation]()
+
+![equation]()
+
+![equation]()
+
+![equation]()
 
 
 
