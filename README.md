@@ -26,11 +26,16 @@ fg = composantes
 
 ![equation](http://www.sciweavers.org/download/Tex2Img_1456527329.png)
 
-![equation]()
+ff =
 
-![equation]()
+![equation](http://www.sciweavers.org/download/Tex2Img_1456527562.png)
 
-![equation]()
+fr = -fg
+
+![equation](http://www.sciweavers.org/download/Tex2Img_1456527649.png)
+
+fffff
+![equation](http://www.sciweavers.org/download/Tex2Img_1456528395.png)
 
 ![equation]()
 
