@@ -1,12 +1,12 @@
 # test2
 
-![alt tag] (https://github.com/alphaground123/test2/blob/master/cinq_particules.png)
+![equation] (https://github.com/alphaground123/test2/blob/master/cinq_particules.png)
 
-![alt tag](http://www.sciweavers.org/download/Tex2Img_1456353589.jpg)
+![equation](http://www.sciweavers.org/download/Tex2Img_1456353589.jpg)
 
-![alt tag](http://www.sciweavers.org/download/Tex2Img_1456354105.png)
 
-http://www.sciweavers.org/download/Tex2Img_1456354340.png
+
+
 
 
 
