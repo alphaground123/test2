@@ -1,8 +1,15 @@
 # test2
 
-![equation] (https://github.com/alphaground123/test2/blob/master/cinq_particules.png)
+We suppose that:
+- The center of mass of a particle is coincident with the center of gravity
+- Particles rotational movements are not simulated
+- The radius, density, coefficient of restitution particle/ground and the friction coefficient particle/ground can be different from one particle to another
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456353589.jpg)
+In addition, two simplifying assumptions are made:
+- The ground is supposed plane and zero slope 
+- Collisions between particles are not simulated
+
+The movement equation of a particle is described by:
 
 ![equation](http://www.sciweavers.org/download/Tex2Img_1456526547.png)
 
