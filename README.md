@@ -22,7 +22,9 @@ fi
 
 ![equation](http://www.sciweavers.org/download/Tex2Img_1456527148.png)
 
-![equation]()
+fg = composantes
+
+![equation](http://www.sciweavers.org/download/Tex2Img_1456527329.png)
 
 ![equation]()
 
