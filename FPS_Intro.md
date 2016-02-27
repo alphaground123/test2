@@ -112,9 +112,9 @@ And we get the plot of the particles falls as shown below:
 
 ![tag image] (https://github.com/alphaground123/test2/blob/master/images/deux_particules.png)
 
-## Licence
+## License
 
-The MIT License (MIT)
+This project is under MIT License.
 
 Copyright (c) 2016 Author
 
