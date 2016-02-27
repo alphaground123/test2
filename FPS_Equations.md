@@ -1,6 +1,10 @@
 # Falling Particle Simulator - FPS
 
+## Description and Motivation
+
 The purpose of this program is to develop a simulator easy to use in order to visualize the falling rigid spherical particles subjected to gravity and a set of forces. We use the numerical integration of the equations to make the movement of the particles.
+
+## Assumptions
 
 We suppose that:
 - The center of mass of a particle is coincident with the center of gravity
@@ -10,6 +14,8 @@ We suppose that:
 In addition, two simplifying assumptions are made:
 - The ground is supposed plane and zero slope 
 - Collisions between particles are not simulated
+
+## Equations
 
 The movement equation of a particle is described by:
 
