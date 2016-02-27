@@ -27,7 +27,7 @@ with:
 
 ![equation](http://www.sciweavers.org/download/Tex2Img_1456527164.png) the vector of the friction force acting on the particle in contact with ground:
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456533016.png)
+![equation](https://github.com/alphaground123/test2/blob/master/images/friction_force.png)
 
 where ![equation](http://www.sciweavers.org/download/Tex2Img_1456529475.png) and ![equation](http://www.sciweavers.org/download/Tex2Img_1456529632.png)
 represent the ith component of the linear velocity of the particle and the coefficient of friction particle/ground. This model is a composite model allowing both to account for phenomena of Coulomb and viscous.
