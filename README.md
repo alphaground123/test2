@@ -43,7 +43,7 @@ With the model selected, the calculation of the forces acting on a particle depe
 
 The initial conditions (k = 0) are: 
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456534192.png) 
+![equation](http://www.sciweavers.org/download/Tex2Img_1456535016.png) 
 
 *****
 fg
