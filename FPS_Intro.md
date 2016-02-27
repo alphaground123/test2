@@ -12,15 +12,15 @@ Therefore, I suggest beginning with two particles.
 
 The FPS runs on Linux. Before using the FPS, make sure you have [Gnuplot] (http://www.gnuplot.info/) on your Linux distribution.
 
-Open the terminal and type the command lines:
-make particles_simulator
-./particles_simulator
+Open the terminal and type the command lines: <br />
+make particles_simulator <br />
+./particles_simulator <br />
 
 To plot the evolution in time of the falling rigid spherical particles, you need to run gnuplot and load the particles positions.
 
-Command lines for gnuplot:
-gnuplot
-load 'positions.plt'
+Command lines for gnuplot: <br />
+gnuplot <br />
+load 'positions.plt' <br />
 
 ## Details
 
