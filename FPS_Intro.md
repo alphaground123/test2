@@ -1,4 +1,4 @@
-# Falling Particle Simulator - FPS
+# Falling Particle Simulator (FPS)
 
 ## Description
 
