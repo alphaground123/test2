@@ -17,7 +17,7 @@ The movement equation of a particle is described by:
 
 with:
 
-- ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_g.png) the vector of the gravitational forces acting on the particle:
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_g.png) the vector of the gravitational forces acting on the particle:
 
 ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/gravity.png)
 
@@ -25,14 +25,14 @@ with:
 
 ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/reaction_force.png)
 
-- ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_f.png) the vector of the friction force acting on the particle in contact with ground:
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_f.png) the vector of the friction force acting on the particle in contact with ground:
 
 ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/friction_force.png)
 
 where ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/velocity_ith.png) and ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/varphi.png)
 represent the ith component of the linear velocity of the particle and the coefficient of friction particle/ground. This model is a composite model allowing both to account for phenomena of Coulomb and viscous.
 
-- ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_i.png) is the vector of the impulse force related to the impact between the particle and the ground.
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_i.png) is the vector of the impulse force related to the impact between the particle and the ground.
 When a particle comes into contact with soil, the particle undergoes impact strength and which is linked (as long as the particle is in contact with the ground):
 
 ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/impulse_force.png)
