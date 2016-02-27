@@ -74,7 +74,7 @@ We set the following parameters for two particles, see the tables below:
 
 In the terminal:
 
-************ Welcome to the particles fall simulator *************
+************ Welcome to the Falling Particle Simulator *************
 
 Enter the number of particles: 2 <br />
 Enter the total simulation time: 50 <br />
