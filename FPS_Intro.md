@@ -53,8 +53,21 @@ The user can see the trajectory of each particle in space.
 
 We set the following parameters for two particles, see the tables below: 
 
-|Parameter| Data|
+|Parameter name|Data|
 | :---: | :---: |
 | Number of particles | 2 |
 | Total simulation | 50 |
 |Time step|0.01|
+
+|Parameter name|Particle 1|Particle 2|
+| :---: | :---: | :---: |
+| Radius | 0.05 | 0.08 |
+| Mass | 1 | 0.5 |
+|Coefficient of restitution|0.4|0.2|
+|Friction coefficient|0.4|0.8|
+|Initial position x|4|5|
+|Initial position y|4|5|
+|Initial position z|4|5|
+|Initial velocity Vx|1|2|
+|Initial velocity Vy|1|2|
+|Initial velocity Vz|1|2|
