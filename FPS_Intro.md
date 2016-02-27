@@ -71,3 +71,41 @@ We set the following parameters for two particles, see the tables below:
 |Initial velocity Vx|1|2|
 |Initial velocity Vy|1|2|
 |Initial velocity Vz|1|2|
+
+In the terminal:
+
+************ Welcome to the particles fall simulator *************
+
+Enter the number of particles: 2
+Enter the total simulation time: 50
+Enter the time step of the simulation: 0.01
+
+Enter the radius of the particle 1: 0.05
+Enter the mass of the particle 1: 1
+Enter the coefficient of restitution of the impact of the particle 1: 0.4
+Enter the friction coefficient of the particle 1: 0.4
+
+Enter the radius of the particle 2: 0.08
+Enter the mass of the particle 2: 0.5
+Enter the coefficient of restitution of the impact of the particle 2: 0.2
+Enter the friction coefficient of the particle 2: 0.8
+
+Enter the initial position x of the particle 1: 4
+Enter the initial position y of the particle 1: 4
+Enter the initial position z of the particle 1: 4
+
+Enter the initial velocity Vx of the particle 1: 1
+Enter the initial velocity Vy of the particle is 1: 1
+Enter the initial velocity Vz of the particle 1: 1
+
+Enter the initial position x of the particle 2: 5
+Enter the initial position y of the particle 2: 5
+Enter the initial position z of the particle 2: 5
+
+Enter the initial velocity Vx of the particle 2: 2
+Enter the initial velocity Vy of the particle 2: 2
+Enter the initial velocity Vz of the particle 2: 2
+
+End of calculating positions, please call gnuplot and typing load 'positions.plt' to display the trajectory of each particle
+
+And we get the plot of the particles falls as shown below:
