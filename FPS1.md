@@ -17,15 +17,15 @@ The movement equation of a particle is described by:
 
 with:
 
-![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_g.png) the vector of the gravitational forces acting on the particle:
+- ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_g.png) the vector of the gravitational forces acting on the particle:
 
 ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/gravity.png)
 
-![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_r.png) the vector of the reaction force acting on the particle in contact with ground:
+- ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_r.png) the vector of the reaction force acting on the particle in contact with ground:
 
 ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/reaction_force.png)
 
-![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_f.png) the vector of the friction force acting on the particle in contact with ground:
+- ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_f.png) the vector of the friction force acting on the particle in contact with ground:
 
 ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/friction_force.png)
 
