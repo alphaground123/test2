@@ -1,4 +1,6 @@
-# test2
+# Falling Particle Simulator - FPS
+
+The purpose of this program is to develop a simulator easy to use in order to visualize the falling rigid spherical particles subjected to gravity and a set of forces. We use the numerical integration of the equations to make the movement of the particles.
 
 We suppose that:
 - The center of mass of a particle is coincident with the center of gravity
