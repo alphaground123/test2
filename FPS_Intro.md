@@ -53,7 +53,7 @@ The user can see the trajectory of each particle in space.
 
 We set the following parameters for two particles, see the tables below: 
 
-|  |  |
+|Parameter| Data|
 | :---: | :---: |
 | Number of particles | 2 |
 | Total simulation | 50 |
