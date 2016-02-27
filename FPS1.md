@@ -13,36 +13,36 @@ In addition, two simplifying assumptions are made:
 
 The movement equation of a particle is described by:
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456526547.png)
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/sum_forces.png)
 
 with:
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456526628.png) the vector of the gravitational forces acting on the particle:
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_g.png) the vector of the gravitational forces acting on the particle:
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456527329.png)
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/gravity.png)
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456526682.png) the vector of the reaction force acting on the particle in contact with ground:
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_r.png) the vector of the reaction force acting on the particle in contact with ground:
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456527649.png)
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/reaction_force.png)
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456527164.png) the vector of the friction force acting on the particle in contact with ground:
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_f.png) the vector of the friction force acting on the particle in contact with ground:
 
-![equation](https://github.com/alphaground123/test2/blob/master/images/friction_force.png)
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/friction_force.png)
 
-where ![equation](http://www.sciweavers.org/download/Tex2Img_1456529475.png) and ![equation](http://www.sciweavers.org/download/Tex2Img_1456529632.png)
+where ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/velocity_ith.png) and ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/varphi.png)
 represent the ith component of the linear velocity of the particle and the coefficient of friction particle/ground. This model is a composite model allowing both to account for phenomena of Coulomb and viscous.
 
-- ![equation](http://www.sciweavers.org/download/Tex2Img_1456527148.png) is the vector of the impulse force related to the impact between the particle and the ground.
+- ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/force_i.png) is the vector of the impulse force related to the impact between the particle and the ground.
 When a particle comes into contact with soil, the particle undergoes impact strength and which is linked (as long as the particle is in contact with the ground):
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456532916.png)
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/impulse_force.png)
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456529864.png) and ![equation](http://www.sciweavers.org/download/Tex2Img_1456529911.png) represent the simulation steps and the coefficient of restitution characterizing a particle impact/ground
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/delta_t.png) and ![equation](https://github.com/alphaground123/test2/blob/master/images_equations/restitution_coefficient.png) represent the simulation steps and the coefficient of restitution characterizing a particle impact/ground
 
 With the model selected, the calculation of the forces acting on a particle depends only on its speed and assumed physical specifications at any time. To first order, the acceleration, velocity and position of the particle are given to each step of numerical integration by the relations:
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456534047.png)
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/position_vector.png)
 
 The initial conditions (k = 0) are: 
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1456535016.png) 
+![equation](https://github.com/alphaground123/test2/blob/master/images_equations/initial_position_velocity.png) 
