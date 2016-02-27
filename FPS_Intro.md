@@ -48,3 +48,13 @@ Then the user type in the terminal, the command "gnuplot" to call gnuplot, then 
 load 'positions.plt'
 
 The user can see the trajectory of each particle in space.
+
+## Example
+
+We set the following parameters for two particles, see the tables below: 
+
+|  |  |
+| :---: | :---: |
+| Number of particles | 2 |
+| Total simulation | 50 |
+|Time step|0.01|
