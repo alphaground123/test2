@@ -72,6 +72,9 @@ We set the following parameters for two particles, see the tables below:
 |Initial velocity Vy|1|2|
 |Initial velocity Vz|1|2|
 
+See [FPS Equations] (https://github.com/alphaground123/test2/blob/master/FPS_Equations.md)
+
+
 In the terminal:
 
 ************ Welcome to the Falling Particle Simulator *************
@@ -116,7 +119,7 @@ And we get the plot of the particles falls as shown below:
 
 This project is under MIT License.
 
-Copyright (c) 2016 Author
+Copyright (c) 2016 AuthorName
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
