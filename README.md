@@ -8,6 +8,10 @@ The falling particles simulator considers as many particles as the user has deci
 If the user enters a large number of particles, the more he will enter data.
 Therefore, I suggest beginning with two particles.
 
+## Supported platforms
+- Linux
+
+
 ## How to use
 
 The FPS runs on Linux. Before using the FPS, make sure you have [Gnuplot] (http://www.gnuplot.info/) on your Linux distribution.
