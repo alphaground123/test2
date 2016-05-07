@@ -11,12 +11,11 @@ Therefore, I suggest beginning with two particles.
 ## Supported platforms
 - Linux
 
-
 ## How to use
 
 The FPS runs on Linux. Before using the FPS, make sure you have [Gnuplot] (http://www.gnuplot.info/) on your Linux distribution.
 
-### Makefile
+#### Makefile
 Open the terminal and type the command lines: <br />
 make particles_simulator <br />
 ./particles_simulator <br />
