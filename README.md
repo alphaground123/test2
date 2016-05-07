@@ -26,7 +26,7 @@ Command lines for gnuplot: <br />
 gnuplot <br />
 load 'positions.plt' <br />
 
-## Details
+## Overview
 
 In the FPS, we distinguish two properties:
 - The simulation properties
@@ -51,7 +51,9 @@ All the x, y and z positions of each particle are stored in the .data files and 
 Then the user type in the terminal, the command "gnuplot" to call gnuplot, then load the file positions.plt by typing:
 load 'positions.plt'
 
-The user can see the trajectory of each particle in space.
+The user can see the trajectory of each particle in space (see below).
+
+![tag image] (https://github.com/alphaground123/test2/blob/master/images/dix_particules.png)
 
 ## Example
 
