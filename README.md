@@ -13,7 +13,7 @@ Therefore, I suggest beginning with two particles.
 
 ## How to use
 
-The FPS runs on Linux. Before using the FPS, make sure you have [Gnuplot] (http://www.gnuplot.info/) on your Linux distribution.
+The FPS runs on Linux. Before using the FPS, make sure you have [Gnuplot](http://www.gnuplot.info/) on your Linux distribution.
 
 #### Makefile
 Open the terminal and type the command lines: <br />
@@ -53,7 +53,7 @@ load 'positions.plt'
 
 The user can see the trajectory of each particle in space (see below).
 
-![tag image] (https://github.com/alphaground123/test2/blob/master/images/dix_particules.png)
+![tag image](https://github.com/alphaground123/test2/blob/master/images/dix_particules.png)
 
 ## Example
 
